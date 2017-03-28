@@ -1,0 +1,17 @@
+c:\users\merve\documents\visual studio 2013\Projects\Ornek\Ornek\bin\Ornek.dll.config
+c:\users\merve\documents\visual studio 2013\Projects\Ornek\Ornek\bin\Ornek.dll
+c:\users\merve\documents\visual studio 2013\Projects\Ornek\Ornek\bin\Ornek.pdb
+c:\users\merve\documents\visual studio 2013\Projects\Ornek\Ornek\obj\Debug\Ornek.csprojResolveAssemblyReference.cache
+c:\users\merve\documents\visual studio 2013\Projects\Ornek\Ornek\obj\Debug\Ornek.dll
+c:\users\merve\documents\visual studio 2013\Projects\Ornek\Ornek\obj\Debug\Ornek.pdb
+C:\Users\mmert\Documents\Visual Studio 2013\Projects\Ornek\Ornek\bin\Ornek.dll.config
+C:\Users\mmert\Documents\Visual Studio 2013\Projects\Ornek\Ornek\bin\Ornek.dll
+C:\Users\mmert\Documents\Visual Studio 2013\Projects\Ornek\Ornek\bin\Ornek.pdb
+C:\Users\mmert\Documents\Visual Studio 2013\Projects\Ornek\Ornek\obj\Debug\Ornek.dll
+C:\Users\mmert\Documents\Visual Studio 2013\Projects\Ornek\Ornek\obj\Debug\Ornek.pdb
+C:\Users\mmert\Desktop\Ornek\Ornek\bin\Ornek.dll
+C:\Users\mmert\Desktop\Ornek\Ornek\bin\Ornek.pdb
+C:\Users\mmert\Desktop\Ornek\Ornek\obj\Debug\Ornek.csprojResolveAssemblyReference.cache
+C:\Users\mmert\Desktop\Ornek\Ornek\obj\Debug\Ornek.dll
+C:\Users\mmert\Desktop\Ornek\Ornek\obj\Debug\Ornek.pdb
+C:\Users\mmert\Documents\Visual Studio 2013\Projects\Ornek\Ornek\obj\Debug\Ornek.csprojResolveAssemblyReference.cache

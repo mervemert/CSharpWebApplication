@@ -1,0 +1,121 @@
+﻿
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="masterPage.master.cs" Inherits="Ornek.masterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>
+        <asp:ContentPlaceHolder ID="title" runat="server"></asp:ContentPlaceHolder>
+    </title>
+    <link href="Styles/style.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        </style>
+    </head>
+    <body>
+        <form id="form1" runat="server">
+            <div class="background">
+		<div class="page">
+			<a href="index.html" id="logo">Randevu Takip Sistemi</a>
+			<div class="sidebar">
+				<ul>
+					<li class="selected">
+						<a href="Index.aspx">Anasayfa</a>
+					</li>
+					<li>
+						<a href="Birimler.aspx">Birimler</a>
+					</li>
+					<li>
+						<a href="Doktorlarimiz.aspx">Doktorlarımız</a>
+					</li>
+					<li>
+						<a href="Hakkimizda.aspx">Hakkımızda</a>
+					</li>
+					
+					<li>
+						<a href="Iletisim.aspx">İletişim</a>
+					</li>
+				</ul>
+				<div class="first">
+					<div>
+						<h3>GÜNDEM<table class="auto-style1">
+                            <tr>
+                                <td>Evde Sağlık Hizmetleri</td>
+                            </tr>
+                            <tr>
+                                <td>Organ Bağışı</td>
+                            </tr>
+                            <tr>
+                                <td>Kornea Nakli</td>
+                            </tr>
+                            <tr>
+                                <td>Hayvan Labarotuvarı</td>
+                            </tr>
+                            <tr>
+                                <td>Akupunktur</td>
+                            </tr>
+                            </table>
+                        </h3>
+						&nbsp;<br />
+					</div>
+				</div>
+				
+			</div>
+			<div class="body">
+				<div class="home">
+					<div class="featured">
+						<img src="images/doctors.jpg" alt="">
+						<div>
+							<p>
+								&nbsp;Online Randevu Sistemi Hizmetinizde!</p>
+						</div>
+					</div>
+					<div>
+						
+					</div>
+				</div>
+			</div>
+            
+                
+   
+						<div style="height: 317px">
+							<asp:ContentPlaceHolder ID="contentBody" runat="server">
+                  
+
+                             </asp:ContentPlaceHolder>
+						</div>
+            <div class="footer">
+				
+					
+			
+              
+	
+   </form>       
+        <p>
+            &nbsp;</p>
+        <p>
+            &nbsp;</p>
+        <p>
+            &nbsp;</p>
+        <p>
+            &nbsp;</p>
+        <p>
+            &nbsp;</p>
+      
+        <p>
+            &nbsp;</p>
+        <p>
+            &nbsp;</p>
+        <p>
+            &nbsp;</p>
+        <p>
+            &nbsp;</p>
+        <p>
+            &nbsp;</p>
+</body>
+</html>
